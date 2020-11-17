@@ -1,0 +1,21 @@
+.icon-title {
+  text-align: center;
+  margin-bottom: 15px;
+
+  &.left {
+    text-align: left;
+  }
+
+  &.right {
+    text-align: right;
+  }
+
+  &.center {
+    text-align: center;
+  }
+
+  .wrap {
+    display: inline-block;
+    text-align: center;
+  }
+}

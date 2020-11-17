@@ -1,0 +1,14 @@
+.icon-title {
+  text-align: center;
+  margin-bottom: 15px; }
+  .icon-title.left {
+    text-align: left; }
+  .icon-title.right {
+    text-align: right; }
+  .icon-title.center {
+    text-align: center; }
+  .icon-title .wrap {
+    display: inline-block;
+    text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
